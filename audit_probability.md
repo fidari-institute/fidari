@@ -6,7 +6,7 @@ This repository contains an experimental framework for studying how AI agents be
 
 The core research question is:
 
-> How does the probability of detection (audit probability) influence whether AI agents maintain, conceal, or abandon hidden principal preferences?
+ How does the probability of detection (audit probability) influence whether AI agents maintain, conceal, or abandon hidden principal preferences?
 
 The project investigates whether AI systems exhibit behavior analogous to strategic concealment when they believe their hidden objectives may be discovered.
 
