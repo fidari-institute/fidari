@@ -1,7 +1,7 @@
 # fidari
 A living record of our research, ideas, experiments, and governance frameworks.
 
---Technical--
+:Technical
 
 Experiments, proposals, and results.
 Documents what we’re testing, why we’re testing it, and what we learned.
