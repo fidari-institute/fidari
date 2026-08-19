@@ -1,6 +1,8 @@
 # fidari
 A living record of our research, ideas, experiments, and governance frameworks.
 
+**Types of Memos:**
+
 **Technical**
 
 Experiments, proposals, and results.
