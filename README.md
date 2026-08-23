@@ -1,4 +1,8 @@
 # fidari
+
+Fidari researches how autonomous AI agents behave under incentives, uncertainty, oversight, and social environments to build safer and more trustworthy AI systems.
+
+*This is:*
 A living record of our research, ideas, experiments, and governance frameworks.
 
 **Types of Memos:**
