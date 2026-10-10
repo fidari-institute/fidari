@@ -1,6 +1,6 @@
 # fidari
 
-Fidari is an interdisciplinary research community that studies how autonomous AI agents behave under different motivations, institutional structures, forms of oversight, and societal environments.
+Fidari is an interdisciplinary research community that studies artificial agency and what agents do, why they do it, and how they respond or use power. 
 
 This repo is organized:
 
