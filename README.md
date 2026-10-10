@@ -1,23 +1,9 @@
 # fidari
 
-Fidari researches how autonomous AI agents behave under incentives, uncertainty, oversight, and social environments to build safer and more trustworthy AI systems.
+Fidari is an interdisciplinary research community that studies how autonomous AI agents behave under different motivations, institutional structures, forms of oversight, and societal environments.
 
-*This is:*
-A living record of our research, ideas, experiments, and governance frameworks.
+This repo is organized:
 
-**Types of Memos:**
-
-**Technical**
-
-Experiments, proposals, and results.    
-Documents what we’re testing, why we’re testing it, and what we learned.
-
-**Theoretical**
-
-Ideas before they’re tested.     
-Concepts, hypotheses, models, and frameworks that haven’t yet met the empirical world.
-
-**Governance**
-
-How we (should) govern.     
-Methodologies, principles, processes, and frameworks for making decisions, setting boundaries, and governing agents responsibly.
+1. memos - short essays 
+2. papers - published papers
+3. preprints - preprints
